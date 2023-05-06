@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<khachhangs>
+    <khachhang>
+        <TenKH>Nguyễn Quốc Oai</TenKH>
+        <CCCD>1111111</CCCD>
+        <SDT>1111111</SDT>
+        <ID>234</ID>
+        <GiaPhong>300000</GiaPhong>
+        <SoNgayTro>4</SoNgayTro>
+        <LoaiPhong>THUONG</LoaiPhong>
+        <TongTien>1200000</TongTien>
+    </khachhang>
+    <khachhang>
+        <TenKH>Phạm Công Tú</TenKH>
+        <CCCD>6666666</CCCD>
+        <SDT>66666</SDT>
+        <ID>2</ID>
+        <GiaPhong>500000</GiaPhong>
+        <SoNgayTro>6</SoNgayTro>
+        <LoaiPhong>VIP</LoaiPhong>
+        <TongTien>3000000</TongTien>
+    </khachhang>
+</khachhangs>

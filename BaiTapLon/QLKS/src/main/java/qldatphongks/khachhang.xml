@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<khachhangs>
+    <khachhang>
+        <ID>1</ID>
+        <TenKH>Mai Thanh Toan</TenKH>
+        <CCCD>001082946357</CCCD>
+        <SDT>0912533197</SDT>
+        <SoNgayTro>3</SoNgayTro>
+        <LoaiPhong>THUONG</LoaiPhong>
+        <GiaPhong>300000</GiaPhong>
+        <TongTien>900000</TongTien>
+    </khachhang>
+    <khachhang>
+        <ID>2</ID>
+        <TenKH>Mai Thanh Toan</TenKH>
+        <CCCD>001082946357</CCCD>
+        <SDT>0912533197</SDT>
+        <SoNgayTro>3</SoNgayTro>
+        <LoaiPhong>VIP</LoaiPhong>
+        <GiaPhong>500000</GiaPhong>
+        <TongTien>1500000</TongTien>
+    </khachhang>
+</khachhangs>
